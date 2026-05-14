@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:sass": "sass --watch src/sass/style.scss src/css/style.css"
+    "start:sass": "sass --watch --no-source-map src/sass/style.scss src/css/style.css",
+    "build:sass": "sass --style=compressed --no-source-map src/sass/style.scss dist/projeto_sass/css/style.css"
   },
   "keywords": [],
   "author": "",
