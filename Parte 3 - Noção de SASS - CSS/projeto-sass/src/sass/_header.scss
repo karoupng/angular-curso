@@ -1,11 +1,11 @@
+@use "variables" as *;
 .header {
-  background-color: burlywood;
+  background-color: pink;
   padding: 10px;
 
   h1 {
     //estilos só serão aplicados para o h1 dentro do header
-      color: $color;
-      font-family: $font-family;
-    }
+    color: $color;
+    font-family: $font-family;
   }
-
+}

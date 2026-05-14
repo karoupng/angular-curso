@@ -8,11 +8,11 @@ body {
 }
 
 .header {
-  background-color: burlywood;
+  background-color: pink;
   padding: 10px;
 }
 .header h1 {
-  color: aqua;
+  color: brown;
   font-family: cursive;
 }
 
