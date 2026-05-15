@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: blue;
 }
 
 .header {
@@ -15,5 +15,3 @@ body {
   color: brown;
   font-family: cursive;
 }
-
-/*# sourceMappingURL=style.css.map */
