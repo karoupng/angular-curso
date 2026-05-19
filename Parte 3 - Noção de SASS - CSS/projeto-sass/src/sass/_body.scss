@@ -1,4 +1,14 @@
 @use "variables" as *;
 body {
-  background-color: $bg-color;
+  background-color: $azbebe;
+  border: 3px solid black;
+
+  .novo h1{
+    color: $marrom;
+    font-family: $font-family;
+  }
+
+  h1{
+    color: $rosa;
+  }
 }
