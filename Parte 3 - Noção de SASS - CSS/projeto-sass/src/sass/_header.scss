@@ -1,23 +1,24 @@
 @use "variables" as *;
 .header {
-  // background-color: yellow;
-  // padding: 10px;
-
-  // h1 {
-  //   //estilos só serão aplicados para o h1 dentro do header
-  //   color: $color;
-  //   font-family: $font-family;
-  background-color: bisque;
   border: 3px solid black;
 
+  &__title {
+    &.--background {
+      background-color: rgb(48, 180, 36);
+    }
 
-
-  h1{
-    color: $rosa;
-
+    &.--fonte {
+      color: blueviolet;
+    }
   }
 
-  
-  }
-  
+  &__subtitle {
+    &.--background {
+      background-color: rgb(255, 230, 5);
+    }
 
+    &.--fonte {
+      color: blueviolet;
+    }
+  }
+}
