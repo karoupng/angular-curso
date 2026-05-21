@@ -8,6 +8,29 @@ body {
   border: 3px solid black;
 }
 
+.content {
+  padding: 20px;
+  background-color: aqua;
+  margin: 10px;
+}
+.content__centralizer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: brown;
+  color: white;
+  border: 1 px solid black;
+  padding: 10px 20px;
+  cursor: pointer;
+  position: relative;
+}
+.button.--color-orange {
+  color: orange;
+}
+
 .header {
   border: 3px solid black;
 }

@@ -3,3 +3,28 @@ body {
   background-color: $azbebe;
   border: 3px solid black;
 }
+
+.content {
+  padding: 20px;
+  background-color: aqua;
+  margin: 10px;
+
+  &__centralizer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.button{
+  background-color: $marrom;
+  color: white;
+  border: 1 px solid black;
+  padding: 10px 20px;
+  cursor: pointer;
+  position:relative;
+
+  &.--color-orange{
+    color: orange;
+  }
+}
