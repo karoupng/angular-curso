@@ -40,7 +40,7 @@ Para rodar o Angular, é preciso:
 #### 🎂 A Analogia da Receita de Bolo
 * **Ingredientes:** Todo o código Angular.
 * **Confeiteiro:** Bibliotecas no Angular + Angular CLI. O Angular CLI dita as ações, por isso é um "confeiteiro".
-* **Loja e Cozinha:** Seria o Node.js — mistura os ingredientes e mostra pronto para alguém consumir. O Node.js traz todas as funcionalidades para executar o pacote em JavaScript.
+* **Loja e Cozinha:** Seria o Node.js : mistura os ingredientes e mostra pronto para alguém consumir. O Node.js traz todas as funcionalidades para executar o pacote em JavaScript.
 * **Consumo:** `localhost:4200`
 
 ---
