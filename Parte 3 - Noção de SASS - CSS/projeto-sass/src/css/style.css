@@ -10,13 +10,21 @@ body {
 
 .content {
   padding: 20px;
-  background-color: aqua;
   margin: 10px;
 }
-.content__centralizer {
+.content.--centralizer {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.content.--margin-left {
+  margin-left: 150px;
+}
+.content.--wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  background-color: pink;
 }
 
 .button {
