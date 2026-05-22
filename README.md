@@ -35,9 +35,9 @@ Para rodar o Angular, é preciso:
 * **Ng Serve:** Realiza o *build* (construção do projeto); o navegador pega o servidor local para rodar o `index.html`.
 * **Compiler:** Compilação. Transforma o código Angular em HTML, CSS e JavaScript.
 
-> ⚠️ **Observação Crucial:** O navegador não entende Angular, apenas JavaScript, HTML e CSS. Por isso, o compilador converte todo o Angular em JS, HTML e CSS.
+>  **Observação Crucial:** O navegador não entende Angular, apenas JavaScript, HTML e CSS. Por isso, o compilador converte todo o Angular em JS, HTML e CSS.
 
-#### 🎂 A Analogia da Receita de Bolo
+####  A Analogia da Receita de Bolo
 * **Ingredientes:** Todo o código Angular.
 * **Confeiteiro:** Bibliotecas no Angular + Angular CLI. O Angular CLI dita as ações, por isso é um "confeiteiro".
 * **Loja e Cozinha:** Seria o Node.js : mistura os ingredientes e mostra pronto para alguém consumir. O Node.js traz todas as funcionalidades para executar o pacote em JavaScript.
@@ -45,7 +45,7 @@ Para rodar o Angular, é preciso:
 
 ---
 
-## 📜 Linha do Tempo: A História do Node.js
+##  Linha do Tempo: A História do Node.js
 *Baseado no documentário "Node.js: An Origin Story"*
 
 ### 🔹 2008: O Ponto de Partida e o Motor V8
