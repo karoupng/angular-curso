@@ -4,7 +4,7 @@ Este repositório contém as minhas anotações e o entendimento prático/histó
 
 ---
 
-## 🛠️ Guia de Estudo: Prática e Conceitos
+## Guia de Estudo: Prática e Conceitos
 
 ### Pré-requisitos para Rodar o Angular
 Para rodar o Angular, é preciso:
@@ -12,7 +12,7 @@ Para rodar o Angular, é preciso:
 * **Angular CLI** (*Command Line Interface* / Interface de Linha de Comando)
 * **VS Code**
 
-### 📦 Fundamentos do Node.js e NPM
+### Fundamentos do Node.js e NPM
 
 * **Node.js:** A máquina passa a ser um servidor e faz requisições *HTTP* (Protocolo de Transferência de Hipertexto). Ele executa código *JavaScript* na máquina; antigamente, apenas os navegadores rodavam *JavaScript*.
 * **Ryan Dahl:** Pegou a *Engine* (Motor) V8 do Google Chrome e a tornou local para rodar na máquina.
@@ -20,7 +20,7 @@ Para rodar o Angular, é preciso:
   * **Criador do NPM:** Isaac Schlueter.
 * **Pasta `node_modules`:** Possui as minhas dependências e seus pacotes (considerados também as dependências delas).
 
-#### 📊 Divisão de Dependências no Desenvolvimento
+#### Divisão de Dependências no Desenvolvimento
 
 | Tipo de Dependência | Descrição |
 | :--- | :--- |
@@ -29,7 +29,7 @@ Para rodar o Angular, é preciso:
 
 ---
 
-### 🅰️ O Ecossistema Angular e o Fluxo de Compilação
+### O Ecossistema Angular e o Fluxo de Compilação
 
 * **Angular CLI:** *Command Line Interface* (Interface de Linha de Comando).
 * **Ng Serve:** Realiza o *build* (construção do projeto); o navegador pega o servidor local para rodar o `index.html`.
