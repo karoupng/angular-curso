@@ -1,4 +1,4 @@
-@use "variables" as *;
+@use "../abstracts/variables" as *;
 body {
   background-color: $azbebe;
   border: 3px solid black;
@@ -38,6 +38,8 @@ body {
   &.--color-orange{
     color: orange;
   }
+
+  
 
   
 }
