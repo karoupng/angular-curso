@@ -2,23 +2,23 @@
 .header {
   border: 3px solid black;
 
-  &__title {
-    &.--background {
-      background-color: rgb(48, 180, 36);
-    }
+  // &__title {
+  //   &.--background {
+  //     background-color: rgb(48, 180, 36);
+  //   }
 
-    &.--fonte {
-      color: blueviolet;
-    }
-  }
+  //   &.--fonte {
+  //     color: blueviolet;
+  //   }
+  // }
 
-  &__subtitle {
-    &.--background {
-      background-color: rgb(255, 230, 5);
-    }
+  // &__subtitle {
+  //   &.--background {
+  //     background-color: rgb(255, 230, 5);
+  //   }
 
-    &.--fonte {
-      color: blueviolet;
-    }
-  }
+  //   &.--fonte {
+  //     color: blueviolet;
+  //   }
+  // }
 }
