@@ -1,6 +1,5 @@
 body {
   background-color: rgb(0, 204, 255);
-  border: 3px solid black;
 }
 
 .content {
@@ -34,9 +33,28 @@ body {
   color: orange;
 }
 
-.image {
-  width: 70px;
-  height: 100px;
+.wrapper {
+  background-color: pink;
+  gap: 20px;
+  border: 3px solid black;
+  width: 750px;
+  display: flex;
+}
+.wrapper__content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.wrapper__button {
+  margin-top: auto;
+  align-self: flex-end;
+}
+.wrapper__image {
+  width: 150px;
+  height: auto;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 30px;
 }
 
 .header {
