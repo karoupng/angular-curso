@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.card {
+  max-width: 350px;
+  background-color: #dd1d1d;
+  border-radius: 25px;
+  padding: 30px;
+  font-family: 'Playfair Display', serif;
+
+  
+  &__item {
+    padding: 10px;
+  }
+
+  &__plan {
+    font-size: 20px;
+  }
+
+  &__price {
+    font-weight: 900;
+    font-size: 40px;
+  }
+
+  &__button {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 25px;
+    background-color: #fff;
+  }
+} 
